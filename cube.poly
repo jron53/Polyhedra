@@ -1,0 +1,23 @@
+Vertices
+one 0 0 0
+two 0 0 1
+three 0 1 0
+four 0 1 1
+five 1 0 0
+six 1 0 1
+seven 1 1 0
+eight 1 1 1
+Edges
+one two
+one three
+one five
+two four
+two six
+three four
+three seven
+four eight
+five six
+five seven
+six eight
+seven eight
+
